@@ -1,0 +1,5 @@
+/vendor/
+/drivers/
+/composer.phar
+/composer.lock
+/.php-cs-fixer.cache
